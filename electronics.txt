@@ -1,0 +1,39 @@
+While developing the Machine/Device/Gadget known as COMPUTER (Desktop/Laptop)
+
+We need the concepts of Electronics such as innovation wrt Microprocessors, The other parts of CPU/motherboard , input/output devices etc. Even the Networking needs electronics and also the Communication features in SMART PHONES needs the ENGINEERING of Electronics.
+
+Recall that before we had doomed monitors then came LCD now we have LED & with touchscreens.
+
+Then we had wired keyboard & mouse and now wireless.
+
+And Desktops were reduced to Laptops & Laptops were reduced to Tablets & Tablets were reduced to Smartphones & Smartphones were reduced to Smart Watches etc..
+
+This is how the electronics and computer science is coupled.
+
+
+
+I got my first job as a software engineer because - besides knowing how to write programs - I knew how to read a schematic and operate an oscilloscope. On a lot of embedded projects, the buck stops at the firmware guy. Hardware guy would hand me a board, I would try my program on it.
+
+Back in the 80’s, simulation was not what it is now. So I had to chase down problems in the hardware as well as my software. Here’s an example:
+
+We had designed an add-on board for our product with a pair of RS232 serial ports. I had written an elaborate interrupt-driven driver with rotating circular buffers. Loaded it up to try it out - zilch. So I simplified - simplified - simplified my program until I was just trying to write a register in the serial chip - and discovered that I could not do so. It turned out that the bus timing was wrong. I had to fix it with a one-shot made out of an “and” gate, delaying one of the inputs with a resistor and a cap.
+
+I figured it was just a quick hack to get the board working. Darned if it didn’t get incorporated into the actual design.
+
+Even now, no matter how enlightened and abstract your ideas are, the rubber will meet the road in an actual, physical, electronic computer.
+
+
+In higher studies such as in bachelor degree electronics comes with a big part in computer science. The stream computer science in higher studies gets sub-divided into several categories and among all those categories there are Basic Electronics and Digital Electronics(Digital Systems and Design). So its very necessary to have a vivid idea about electronics else he/she would face problem. And more over if elecronics is in combination with computer science then its becomes very easy to carry marks in both subjects becoz as i said previously that about half a part of computer science is same to that of electronics..
+
+
+
+In higher studies such as in bachelor degree electronics comes with a big part in computer science. The stream computer science in higher studies gets sub-divided into several categories and among all those categories there are Basic Electronics and Digital Electronics(Digital Systems and Design). So its very necessary to have a vivid idea about electronics else he/she would face problem. And more over if elecronics is in combination with computer science then its becomes very easy to carry marks in both subjects becoz as i said previously that about half a part of computer science is same to that of electronics..
+
+
+
+
+
+The boundaries between mathematics, electrical engineering or other disciplines and computer science are pretty vague. “computer” is way more general than people assume. Our brains are capable of computation and as AI evolves, the direction may turn to biological computers as opposed to electrical. Before electronic computers, computing devices were mechanical. Most people I meet in the CS discipline have knowledge in electrical engineering and mathematics (among many other disciplines), so the answer depends on what you think the boundary is or should be. I personally think that CS should include understanding computer architectures and how they affect the way computation is done. Robotics are generally considered fair game as a CS specialty and it is hard to imagine doing anything in robotics without considerable skills in electronics. While there are elements of computer science that do not require knowledge of other areas, I think that is a relatively small piece of the CS world.
+
+
+I guess it depends how you’re approaching this. Legacy computer science involved working literally with electronic components to enable a given function to run, to provide logic to something that had none. I remember back in high-school I created this “calculator” that involved turning switches on and off to calculate the sum of 2 numbers in binary. However, in today’s computing it’s merely the bedrock CS uses to execute everything. That also makes it incredibly important as without it, we would have no computers. We will have computers based on quantum-mechanics but that’s another story for a few decades later. :
